@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tsukada-t/typescript-practice#readme",
   "devDependencies": {
+    "ts-node": "^10.2.1",
     "typescript": "^3.7.5"
   }
 }
